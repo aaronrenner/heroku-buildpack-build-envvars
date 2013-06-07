@@ -1,5 +1,4 @@
 #!/bin/sh
 # bin/compile <build-dir> <cache-dir>
 
-export HEROKU_BUILD_DIR="$1"
-export HEROKU_CACHE_DIR="$2"
+exit 0
